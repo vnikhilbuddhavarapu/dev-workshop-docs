@@ -1,5 +1,10 @@
 # node_modules
-node_modules/
+node_modules
 
 # wrangler
-wrangler/
+wrangler
+
+# environment variables
+.env
+.env.local
+.env.example
